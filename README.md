@@ -8,6 +8,8 @@
 2. - rich version : ```pip install prettytable``` and ```python main.py```
    - simple version : ```python queries.py```
 
+**MPD** : uml.png ou https://drive.google.com/file/d/1cW3Skl4FKHNDgk-gSNO-gLTtWV4wNt5A/view?usp=sharing
+
 ## 1 -  Création de la base de donnée.
 
 Nous avons choisi d'utiliser SQLite pour simplifier le développement (on a juste à effacer un fichier pour réinitialiser la base) et faciliter le partage de code (pas de paramètres de connexions).
